@@ -1,0 +1,19 @@
+# service account key - never commit
+service_account.json
+
+# large dataset - cloned separately from GeorgeDaoud3/SOFE4630U-Design
+Dataset_Occluded_Pedestrian/
+
+# received images from the consumer scripts
+received.jpg
+recieved.jpg
+received_*.png
+
+# built report artifacts
+101006689-ms2-report.html
+101006689-ms2-report.pdf
+
+# python
+.venv/
+__pycache__/
+*.pyc
